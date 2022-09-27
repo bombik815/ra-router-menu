@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vq0k733pgr3xhliv/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-router-menu/branch/main)
 
 [Навигационное меню](https://bombik815.github.io/ra-router-menu/)
 
